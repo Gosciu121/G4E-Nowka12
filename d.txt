@@ -1,0 +1,8 @@
+** :gear: SYSTEM: ${tempVars("platforma")}
+:control_knobs: PING: ${tempVars("ping")}
+:chart_with_upwards_trend: PROCESOR: ${tempVars("proc")} RDZENIE
+:file_folder:  ZAJÊTA PAMIÊÆ: ${tempVars("p%")}MB
+:dvd: DOSTÊPNA PAMIÊÆ: ${tempVars("mb1")}MB
+:film_frames: ZU¯YCIE RAMU: ${tempVars("uzycieramu")}MB
+:keyboard: PREFIX: ${tempVars("prefix")} 
+:timer: CZAS PRACY: ${tempVars("dzien")}:${tempVars("godziny")}:${tempVars("minuty")}:${tempVars("sekuny")} **
